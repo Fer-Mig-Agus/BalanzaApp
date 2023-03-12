@@ -164,8 +164,9 @@ body{
 }
 
 #footer p{
-    margin: 20px;
+    margin: 5px;
     font-size: 20px;
+    text-align: center;
     
 }
 #footer p a{
